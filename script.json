@@ -1,0 +1,11 @@
+{
+    "192.168.1.100":
+    [
+        { "text": "DBGSIGNAL RESET ALL" },
+        { "text": "TIMEZ 007", "wait": 100 }
+    ],
+    "192.168.1.101":
+    [
+        { "text": "REBOOT" }
+    ]
+}
